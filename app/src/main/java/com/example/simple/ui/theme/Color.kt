@@ -12,4 +12,6 @@ val PaleBlue = Color(0xFFC2DEDC)
 val Beige = Color(0xFFECE5C7)
 val Sand = Color(0xFFCDC2AE)
 val Teal = Color(0xFF116A7B)
+val White = Color(0xFFFFFFFF)
+val Black = Color(0xFF000000)
 
